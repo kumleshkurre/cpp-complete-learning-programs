@@ -87,3 +87,9 @@ It is specially designed for **beginners, students, and job-oriented learners** 
 
 ---
 
+## 👨‍💻 Author
+ Kumlesh Kurre
+ 
+## ⭐ Support
+If you like this project, please ⭐ star the repository to support my work!
+  
